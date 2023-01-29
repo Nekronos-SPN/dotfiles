@@ -115,5 +115,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'airblade/vim-gitgutter'
 Plug 'scrooloose/nerdcommenter'
 Plug 'dmerejkowsky/vim-ale'
+Plug 'sheerun/vim-polyglot'
 call plug#end()
 

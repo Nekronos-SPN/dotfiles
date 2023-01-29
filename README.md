@@ -22,6 +22,7 @@
     - nerdcommenter
     - ale
     - git-gutter
+    - polyglot 
 - Shell: zsh
     - Power10k configuration
 - Window compositor: picom
