@@ -5,8 +5,8 @@
 - Brightness: brillo
 - Sound: amixer
 - Greeter: lightdm
-- Window manager: i3wm
     - Webkit 2 aether
+- Window manager: i3wm
 - Terminal emulator: kitty
 - Status bar: polybar
 - File manager: ranger
